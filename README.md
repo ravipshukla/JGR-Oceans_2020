@@ -5,4 +5,4 @@ meridional current [m/sec];
 i-directed wind stress [N/m^2];
 Potential temperature [deg_C];
 mixed layer depth [meter];
-vertical velocity T-points [m/sec];
+vertical velocity [m/sec];
